@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55738475-10AE-4264-A23E-823EF1E82E6C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5303C014-3A83-4D5C-AB58-6F33AD29A5A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarrotMarket/StartBtnPressedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "StartBtnPressedView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5303C014-3A83-4D5C-AB58-6F33AD29A5A5 - 97c79e47705c22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarrotMarket.StartBtnPressedView.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CarrotMarket.StartBtnPressedView"
+                  moduleName = "CarrotMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddie/Desktop/%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%BC%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1/CarrotMarket/CarrotMarket/StartBtnPressedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "5303C014-3A83-4D5C-AB58-6F33AD29A5A5 - f0fecfef03df6306"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CarrotMarket.StartBtnPressedView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CarrotMarket.StartBtnPressedView&gt;"
+                  moduleName = "CarrotMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddie/Desktop/%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%BC%E1%84%8F%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B3/3%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1/CarrotMarket/CarrotMarket/StartBtnPressedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF6840A-DDAF-476D-A68F-710D742940AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CarrotMarket/LifeStyleViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "LifeStyleViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
